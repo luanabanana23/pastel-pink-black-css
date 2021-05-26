@@ -1,0 +1,299 @@
+body {
+    text-align: center;
+    background-attachment: fixed;
+    background-image: url(https://i.pinimg.com/564x/a7/58/d5/a758d57d4ea8f87048e5a7cb5d8ecb0c.jpg);
+    background-size: cover;
+}
+.rightHead {
+   background: #fc90;
+   color: #cc663300;
+   padding-left: 4px;
+   font-size: 0px;
+}
+
+.blurbs {
+    margin-bottom: 20px;
+    background-color: #000000a1;
+    border: dotted;
+    border-color: #ff6ea3;
+    color: white;
+    padding-bottom: 30px;
+    padding-inline: 30px;
+    padding-top: 30px;
+}
+
+#commentInput {
+   width: calc( 100% - 6px );
+   margin: 0;
+   margin-top: 10px;
+   height: 100px;
+   background-image: url(https://64.media.tumblr.com/2c066c3b3e9a2b5c37b0a1fa21c0f866/93d0519a25bffb47-2c/s250x400/d1af33f9ecc8f2ed8ed50c29b9b400ac32ad5158.gifv);
+}
+
+.boxHead {
+   background: #000000;
+   color: white;
+   padding: 3px;
+   padding-bottom: 4px;
+   padding-left: 6px;
+}
+
+.tableLeft {
+   width: 25%;
+   padding: 10px;
+   vertical-align: top;
+   overflow: hidden;
+   background-color: #ff6ea3;
+}
+
+.tableRight {
+    width: 75%;
+    background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+    padding: 10px;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+    color: white;
+}
+
+}
+
+.topLeft {
+   float: left;
+   width: calc( 40% - 20px );
+   padding: 10px;
+   background-color: #ad2c23;
+   padding-top: 86px;
+}
+
+p {
+   margin: 0;
+   padding-block: 20px;
+}
+
+#userWall {
+   margin-top: 10px;
+   word-wrap: break-word;
+   display: inline-block;
+   overflow-y: scroll;
+   width: 100%;
+   height: 400px;
+}
+
+.topLeft {
+   float: left;
+   width: calc( 40% - 20px );
+   padding: 10px;
+   background-color: #ad2c2300;
+   padding-top: 86px;
+}
+
+td.shortRight {
+    display: table-cell;
+    vertical-align: inherit;
+    background-image: url(https://i.pinimg.com/originals/8b/dd/bb/8bddbbd0d06ab2232330e9d421a736aa.gif);
+    padding-inline: 10px;
+    text-shadow: 0px 0px 3px #000000;
+    color: #fcfefc;
+    background-position: right;
+}
+
+h2#name.uName {
+    color: #ff6ea3;
+    background-color: black;
+    border: solid;
+    border-color: black;
+    background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+    text-shadow: 2px 2px 0px #fcfefc;
+}
+
+div#header {
+   all: unset;
+   font-family: Arial;
+   font-size: 15px;
+   background-image: url(https://i.pinimg.com/originals/c2/1d/86/c21d8669cd617d1d6b41f45b7fa2b2c7.gif);
+   color: #fff;
+   position: fixed;
+   width: calc( 100% - 15px );
+   height: 22px;
+   padding: 5px;
+   left: 0px;
+   top: 0px;
+   margin-bottom: 40px;
+   border-bottom: 1px solid black;
+   padding-left: 10px;
+   padding-top: 6px;
+   overflow: hidden;
+   z-index: 300;
+}
+
+div#hSub {
+   all: unset;
+   font-family: Arial;
+   font-size: 15px;
+   background: black;
+   font-size: small;
+   margin: 0px;
+   padding: 5px;
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-left: 10px;
+   padding-top: 4px;
+   position: fixed;
+   left: 0;
+   top: 34px;
+   width: calc(100% - 15px );
+   color: #000;
+   height: 15px;
+   z-index: 300;
+}
+
+h4 {
+   color: #cc663300;
+   margin-bottom: 0px;
+   font-size: 0px;
+}
+
+.boxInfo {
+   border: 1px solid #000;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   background-color: #fcfefc66;
+}
+
+.url {
+   border: 2px solid #ff6ea3;
+   padding: 2px;
+   background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+}
+
+a:-webkit-any-link {
+    color: #ff6ea3;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+b {
+   font-weight: bold;
+   color: white;
+}
+
+.player {
+   padding: 4px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background: black;
+   color: #fff;
+   width: calc(100% - 10px );
+   border: 2px solid #ff6ea3;
+}
+
+#report {
+   background-repeat: no-repeat;
+   background-image: url(img/icon_rank_user4.gif);
+   color: black;
+}
+
+#sMsg {
+   background-repeat: no-repeat;
+   background-image: url(img/sendMailIcon.gif);
+   color: black;
+}
+
+#add {
+   background-repeat: no-repeat;
+   background-image: url(img/addFriendIcon.gif);
+   color: black;
+}
+
+#block {
+   background-repeat: no-repeat;
+   background-image: url(img/blockuser.gif);
+   color: black;
+}
+
+.blogCard .avatar {
+   width: 200px;
+   margin-right: 0px;
+}
+
+div.topLeft.blogCard {
+   float: left;
+   width: 20%;
+   padding: 10px;
+   background-color: #a9a9a9;;
+   padding-top: 86px;
+}
+
+div.topLeft.blogCard::after {
+   content: none;
+   display: block;
+   position: center;
+   width: 100%;
+   height: 1666px;
+   max-width: 370px;
+   background-position: 0 0;
+   background-size: 100% 100%;
+   background-image: url(https://64.media.tumblr.com/32610d6…/d4b21ee6ea6c2029-4e/s1280x1920/069101f….png);
+}
+
+.blog {
+   background-color: #000000;
+   padding: 15px;
+   color: white;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/symbols/sym-8/sym734.cur), auto !important;} /* End https://www.cursors-4u.com */
+
+div.box.fwiends {
+   overflow: hidden;
+   background-image: url(https://i.pinimg.com/originals/c2/1d/86/c21d8669cd617d1d6b41f45b7fa2b2c7.gif);
+}
+
+span#hUp::before {
+   content: “be kind!”;
+   font-size: 13px;
+   animation-duration: 0.3s;
+   animation-timing-function: ease;
+   animation-delay: 0s;
+   animation-iteration-count: infinite;
+   animation-direction: normal;
+   animation-fill-mode: none;
+   animation-play-state: running;
+   animation-name: blinkingTextRed;
+   font-family: monospace;
+}
+
+.extended {
+    border: 1px solid #000;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    color: #fcfefc;
+    background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+}
+
+.player::after {
+    content: "";
+    display: block;
+    position: relative;
+    width: calc(40% -20px);
+    height: 207px;
+    max-width: 370px;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-image: url(https://media2.giphy.com/media/BMDdUuE6c6pnW/giphy.gif);
+}
+
+div.topLeft::after {
+    content: "";
+    display: block;
+    position: center;
+    width: 100%;
+    height: 2000px;
+    max-width: 370px;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-image: url(https://64.media.tumblr.com/ea752b3fa4095e1342bc466508b70093/cd8d9d5c070579b1-7f/s2048x3072/f2d8f03e5486fc61461da11cbca4bf89be6773ca.png);
+    border: solid #ea6ba1;
+    background-color: #ea6ba1d6;
+}
